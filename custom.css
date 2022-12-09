@@ -1,0 +1,63 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+
+button {
+	text-align: center;
+
+}
+.row p:first-letter{
+	font-weight: bold;
+	font-size: 2.8em;
+	text-align: left;
+	color: #800020;
+}
+
+p{
+	text-align: left;
+	color: #000080;
+}
+	
+.feature {
+	background-image: url(../bilder/hg.jpg);
+	background-repeat:repeat-x;
+	color: black;
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-image: url(../bilder/hg.jpg);
+	background-repeat:repeat-x;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	text-align: center;
+	padding: 30px 0;
+}
+
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align: center;
+	}
